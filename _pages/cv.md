@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+https://github.com/Adamdad/Adamdad.github.io/blob/master/images/Xingyi%20Yang%202019_10_18.jpg
 {% include base_path %}
-
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
