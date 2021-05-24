@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-https://github.com/Adamdad/Adamdad.github.io/blob/master/images/Xingyi%20Yang%202019_10_18.jpg
-{% include base_path %}
+
+{% https://github.com/Adamdad/Adamdad.github.io/blob/master/images/Xingyi%20Yang%202019_10_18.jpg %}
 <!-- 
 Education
 ======
